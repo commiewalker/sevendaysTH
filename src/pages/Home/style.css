@@ -1,0 +1,16 @@
+.imgSizeL{
+    width: 100%;
+    height: auto;
+}
+
+.imgSizeS{
+    width: 70%;
+    height: auto;
+}
+
+.centerItem{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
